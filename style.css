@@ -1,0 +1,28 @@
+
+.CSS1{
+    color: yellow;
+    text-align: center;
+}
+
+.CSS2 {
+    color: tomato;
+    text-align: center;
+}
+
+.CSS3 {
+    border: 3px solid yellow;
+}
+
+.CSS4
+{
+    border: 3px solid yellow;
+}
+
+tr,td,th,table {
+    border: 3px solid yellow;
+    text-align: center;
+    width: 900px;
+    height: 100;
+    margin: auto;
+}
+
